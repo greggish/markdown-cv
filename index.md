@@ -25,53 +25,53 @@ __Visiting Scholar__, Ostrom Workshop on the Commons. Indiana University, Bloomi
 
 In the Ostrom Workshop's Program on Data Governance, conducting research and analysis of the field of 'information-and-referral' as a tragic anti-commons. Co-facilitating data governance workgroup. Authored a chapter in “The Cambridge Handbook of Commons Research Innovations,” pending publication by Georgetown University Press in Summer 2020.
 
-
+<p></p>
 
 `2017`
 __Advisor__, Benetech. Palo Alto, California
 
 Co-designed Benetech's strategy for the Service Net Initiative, which is prototyping a platform for multi-lateral community resource data management. Co-convened the Bay Area Service Net pilot, which promotes cooperation among a network of referral providers in the San Francisco Bay Area.
 
-
+<p></p>
 
 `2016`
 __Civic Imagination Fellow__, Civic Hall. New York City
 
 Designed Civic Hall Labs' ReferNYC initiative. Advised the NYC Mayor's Office of Opportunity in their process of standardizing and publishing their citywide dataset of health, human, and social service contractors. Advised members of the Civic Hall community, among other local initiatives.     
 
-
+<p></p>
 
 `2013`
 __Research Fellow__, Provisions Library. DC
 
 Conducted research on emerging opportunities for community technology development, including a report on DC's municipal fiber-optic network, a proposal for a cooperative community broadband initiative, and a white paper about interoperability among local 'information-and-referral' systems. 
 
-
+<p></p>
 
 `2010-2013`
 __Project Lead__, Broadband Bridge. DC
 
 Launched this organizing initiative to bridge the digital divide in DC. Organized 'Discovering Technology Fairs'. Facilitated development of community wifi networks; coordinated policy advocacy around expanding access to broadband in the District.
 
-
+<p></p>
 
 `2009-2011` __Instigator, steering committee__, Save Our Safety Net Campaign. DC
 
 Launched municipal budget campaign to prevent cuts in safety net funding. SOS mobilized thousands of residents and ultimately won a tax increase on the wealthiest 3% of DC taxpayers.
 
-
+<p></p>
 
 `2008-2012` __Communications Guy__ Bread for the City. DC
 
 Responsible for all print and electronic communications, including media relations and daily blogging. Increased online giving by approx. 100% each year; increased email subscribers by approx. 400% overall. Conducted comprehensive update of organizational brand. Organized community events and facilitated internal project management.
 
-
+<p></p>
 
 `2007-2008` __Development Manager__ Equal Justice USA. Hyattsville, MD
 
 Responsible for major donor development, direct mail, email, tele-fundraising, grantwriting, blog outreach, stakeholder reporting, and social media campaign development.
 
-
+<p></p>
 
 `2004-2006` __Community Coordinator__ MediaBistro. New York City
 
@@ -83,21 +83,21 @@ Responsible for membership administration, event planning, tech support, email m
 
 `2020`
 "Averting Tragedy of the Resource Directory Anti-Commons," The Cambridge Handbook of Commons Research Innovations, ed. Sheila Foster and Chrystie Swiney. (DC: Georgetown University Press, publication pending Fall 2020)
-
+<p></p>
 `2017`
 "Community Resource Directories and the Future of Knowledge and Democracy," talk presented at Stanford's Data on Purpose. Viewable at: <a>https://vimeo.com/206682124#t=14m41s</a>
-
+<p></p>
 `2015`
 "An Open Data Approach to the Human Service Directory Problem," Bloomberg Data For Good Exchange. Available at: <a>https://www.academia.edu/16449530/An_Open_Data_Approach_to_the_Human_Service_Directory_Problem</a>
-
+<p></p>
 `2014` 
 "With and Of and By and For," <i>Civic Quarterly</i> #2. Available at: <a>https://civicquarterly.com/article/with-and-of-and-by-and-for/</a>
-
+<p></p>
 `2013`
 "Towards a Community Data Commons," Beyond Transparency, ed. Lauren Dyson and Brett Goldstein. (San Francisco: Code for America) Available at: <a>https://beyondtransparency.org/chapters/part-5/towards-a-community-data-commons/</a>
-
+<p></p>
 "Draw an API," Sunlight Foundation's OpenGov Voices blog, June 20th, 2013. Available at: <a>https://sunlightfoundation.com/2014/06/20/opengov-voices-draw-an-api-an-interpretation-of-open-data-by-tcampers/</a>
-
+<p></p>
 `2012`
 "The DiscoTech as Public and Political Forum," with Jessie Posilkin, Detroit Digital Justice Zine #3, p39-41. Available at: <a>https://issuu.com/mothercyborg/docs/discotechzine</a>
 
