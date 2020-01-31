@@ -80,7 +80,10 @@ etc. etc. etc.
 `1999-2003`
 __Duke University, Trinity__
 
-- ENGLISH B.A. GPA 3.75 | DEAN'S LIST: FALL '99, SPRING '00, SPRING '02
+- ENGLISH B.A. GPA 3.75  
+- DEAN'S LIST: FALL '99, SPRING '00, SPRING '02
+- Managing Editor, _Recess Magazine_
+- Columnist, _The Chronicle_
 
 `2001`
 __King's College, London__
