@@ -3,7 +3,7 @@ layout: cv
 title: Greg Bloom | CV
 ---
 # Greg Bloom
-Community organizer, Cooperative developer, Commons practitioner.
+community organizer, cooperative developer, commons facilitator
 
 <div id="webaddress">
 <a href="bloom@gregbloom.org">bloom@gregbloom.org</a>
@@ -13,13 +13,23 @@ Community organizer, Cooperative developer, Commons practitioner.
 
 ## Currently
 
-Leading the Open Referral Initiative. 
+### Leading *the Open Referral Initiative.* 
+
+Developed the Human Service Data Specifications, which are open protocols for exchanging data about the health, human, and social services available to people in need. Sponsored by Code for America in 2014, and endorsed by the Alliance of Information and Referral Systems in 2018, Open Referral's protocols are now industry standards in the US, UK, and Canada. Through Open Referral, civic leaders and institutions find tools, guidance, implementation support, and a community of practice promoting the establishment of community resource directory data as a public good. 
 
 
 ## Occupations
 
+`2019`
+__Visiting Scholar__, Ostrom Workshop on the Commons. Indiana University, Bloomington
+
+In the Ostrom Workshop's Program on Data Governance, conducting research and analysis of the field of 'information-and-referral' as a tragic anti-commons. Co-facilitating data governance workgroup. Authored a chapter in “The Cambridge Handbook of Commons Research Innovations,” pending publication by Georgetown University Press in Summer 2020.
+
+
 `2017`
 __Advisor__, Benetech. Palo Alto, California
+
+Co-designed Benetech's strategy for the Service Net Initiative, which is prototyping a platform for multi-lateral community resource data management. Co-convened the Bay Area Service Net pilot, which promotes cooperation among a network of referral providers in the San Francisco Bay Area.
 
 - 
 - 
