@@ -91,15 +91,15 @@ Responsible for membership administration, event planning, tech support, email m
 "An Open Data Approach to the Human Service Directory Problem," Bloomberg Data For Good Exchange. Available at: https://www.academia.edu/16449530/An_Open_Data_Approach_to_the_Human_Service_Directory_Problem
 
 `2014` 
-"With and Of and By and For," *Civic Quarterly* v2. Available at: https://civicquarterly.com/article/with-and-of-and-by-and-for/
+"With and Of and By and For," *Civic Quarterly* v2. Available at: <a>https://civicquarterly.com/article/with-and-of-and-by-and-for/</a>
 
-"Draw an API," Sunlight Foundation's OpenGov Voices blog, June 20th, 20134. Available at: https://sunlightfoundation.com/2014/06/20/opengov-voices-draw-an-api-an-interpretation-of-open-data-by-tcampers/
+"Draw an API," Sunlight Foundation's OpenGov Voices blog, June 20th, 20134. Available at: <a>https://sunlightfoundation.com/2014/06/20/opengov-voices-draw-an-api-an-interpretation-of-open-data-by-tcampers/</a>
 
 `2013`
-"Towards a Community Data Commons," Beyond Transparency, ed. Lauren Dyson and Brett Goldstein. (San Francisco: Code for America) Available at: https://beyondtransparency.org/chapters/part-5/towards-a-community-data-commons/
+"Towards a Community Data Commons," Beyond Transparency, ed. Lauren Dyson and Brett Goldstein. (San Francisco: Code for America) Available at: <a>https://beyondtransparency.org/chapters/part-5/towards-a-community-data-commons/</a>
 
 `2012`
-"The DiscoTech as Public and Political Forum," Detroit Digital Justice Zine #3, p39-41. Available at: https://issuu.com/mothercyborg/docs/discotechzine
+"The DiscoTech as Public and Political Forum," Detroit Digital Justice Zine #3, p39-41. Available at: <a>https://issuu.com/mothercyborg/docs/discotechzine</a>
 
 
 ## Education 
