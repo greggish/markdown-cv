@@ -1,91 +1,57 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Greg Bloom | CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Greg Bloom
+Community organizer, Cooperative developer, Commons practitioner.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="bloom@gregbloom.org">bloom@gregbloom.org</a>
+| <a href="http://gregbloom.org">gregbloom.org</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Leading the Open Referral Initiative. 
 
 
-### Research interests
+## Occupations
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`2017`
+__Advisor__, Benetech. Palo Alto, California
 
+- 
+- 
 
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+`2016`
+__Civic Imagination Fellow__, Civic Hall
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2020`
+"Averting Tragedy of the Resource Directory Anti-Commons," The Cambridge Handbook of Commons Research Innovations. Georgetown University Press, _publication pending_
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
+`2017`
 
 etc. etc. etc.
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
-## Occupation
+## Education
 
-`1600`
-__Royal Mint__, London
+`1999-2003`
+__Duke University, Trinity__
 
-- Warden
-- Minted coins
+- ENGLISH B.A. GPA 3.75 | DEAN'S LIST: FALL '99, SPRING '00, SPRING '02
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+`2001`
+__King's College, London__
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Jan 2020 -->
 
 
