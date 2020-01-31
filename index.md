@@ -2,11 +2,11 @@
 layout: cv
 title: Greg Bloom | CV
 ---
-# Greg Bloom
+# Gregory Jay Bloom
 _community organizer, cooperative developer, commons facilitator_
 
 <div id="webaddress">
-<a href="bloom@gregbloom.org">bloom@gregbloom.org</a>
+<a mailto="bloom@gregbloom.org">bloom@gregbloom.org</a>
 | <a href="http://gregbloom.org">gregbloom.org</a> | <a href="http://twitter.com/greggish">@greggish</a> | 305.962.2859
 </div>
 
@@ -79,18 +79,30 @@ Responsible for membership administration, event planning, tech support, email m
 
 
 
-## Publications
+## Publications and Presentations
 
 `2020`
-"Averting Tragedy of the Resource Directory Anti-Commons," The Cambridge Handbook of Commons Research Innovations. Georgetown University Press, _publication pending_
+"Averting Tragedy of the Resource Directory Anti-Commons," _The Cambridge Handbook of Commons Research Innovations_, ed. Sheila Foster and Chrystie Swiney. (DC: Georgetown University Press, publication pending Fall 2020)
 
 `2017`
+"Community Resource Directories and the Future of Knowledge and Democracy," talk presented at Stanford's Data on Purpose. Viewable at: https://vimeo.com/206682124#t=14m41s
 
-etc. etc. etc.
+`2015`
+"An Open Data Approach to the Human Service Directory Problem," Bloomberg Data For Good Exchange. Available at: https://www.academia.edu/16449530/An_Open_Data_Approach_to_the_Human_Service_Directory_Problem
+
+`2014` 
+"With and Of and By and For," _Civic Quarterly_ v2. Available at: https://civicquarterly.com/article/with-and-of-and-by-and-for/
+
+"Draw an API," Sunlight Foundation's OpenGov Voices blog, June 20th, 20134. Available at: https://sunlightfoundation.com/2014/06/20/opengov-voices-draw-an-api-an-interpretation-of-open-data-by-tcampers/
+
+`2013`
+"Towards a Community Data Commons," _Beyond Transparency_, ed. Lauren Dyson and Brett Goldstein. (San Francisco: Code for America) Available at: https://beyondtransparency.org/chapters/part-5/towards-a-community-data-commons/
+
+`2012`
+"The DiscoTech as Public and Political Forum," Detroit Digital Justice Zine #3, p39-41. Available at: https://issuu.com/mothercyborg/docs/discotechzine
 
 
-
-## Education
+## Education 
 
 `1999-2003`
 __Duke University, Trinity__
@@ -103,6 +115,10 @@ __Duke University, Trinity__
 `2001`
 __King's College, London__
 
+## Certification
+
+`2013`
+__CooperationWorks__, Certificate in Cooperative Development
 
 <!-- ### Footer
 
