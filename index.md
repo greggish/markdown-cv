@@ -75,7 +75,7 @@ Responsible for major donor development, direct mail, email, tele-fundraising, g
 
 `2004-2006` __Community Coordinator__ MediaBistro. New York City
 
-Responsible for membership administration, event planning, tech support, email marketing, website development, editorial contributor. Research, reporting, and copy-editing of mb’s book, _Get a Freelance Life_. Assistant to the educational department and the Chief Executive Officer. 
+Responsible for membership administration, event planning, tech support, email marketing, website development, editorial contributor. Research, reporting, and copy-editing of mediabistro’s 2006 book, Get a Freelance Life. Assistant to the educational department and the Chief Executive Officer. 
 
 
 
@@ -91,7 +91,7 @@ Responsible for membership administration, event planning, tech support, email m
 "An Open Data Approach to the Human Service Directory Problem," Bloomberg Data For Good Exchange. Available at: [https://www.academia.edu/16449530/An_Open_Data_Approach_to_the_Human_Service_Directory_Problem]
 
 `2014` 
-"With and Of and By and For," *Civic Quarterly* v2. Available at: [https://civicquarterly.com/article/with-and-of-and-by-and-for/]
+"With and Of and By and For," Civic Quarterly v2. Available at: [https://civicquarterly.com/article/with-and-of-and-by-and-for/]
 
 "Draw an API," Sunlight Foundation's OpenGov Voices blog, June 20th, 20134. Available at: [https://sunlightfoundation.com/2014/06/20/opengov-voices-draw-an-api-an-interpretation-of-open-data-by-tcampers/]
 
@@ -109,8 +109,8 @@ __Duke University, Trinity__
 
 - English B.A. GPA 3.75  
 - Dean's List: Fall '99, Spring '00, Spring '02
-- Managing Editor, _Recess Magazine_
-- Columnist, _The Chronicle_
+- Managing Editor, Recess Magazine
+- Columnist, The Duke Chronicle
 
 `2001`
 __King's College, London__
