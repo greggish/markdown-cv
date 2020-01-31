@@ -3,7 +3,7 @@ layout: cv
 title: Greg Bloom | CV
 ---
 # Gregory Jay Bloom
-*community organizer, cooperative developer, commons facilitator*
+<i>community organizer, cooperative developer, commons facilitator</i>
 
 <div id="webaddress">
 <a mailto="bloom@gregbloom.org">bloom@gregbloom.org</a>
@@ -21,7 +21,7 @@ Developed the Human Service Data Specifications, which are open protocols for ex
 ## Work history
 
 `2019`
-__Visiting Scholar__, Ostrom Workshop on the Commons. Indiana University, Bloomington
+__Visiting Scholar__, Ostrom Workshop on the Commons. Indiana University, Bloomington, Indiana
 
 In the Ostrom Workshop's Program on Data Governance, conducting research and analysis of the field of 'information-and-referral' as a tragic anti-commons. Co-facilitating data governance workgroup. Authored a chapter in “The Cambridge Handbook of Commons Research Innovations,” pending publication by Georgetown University Press in Summer 2020.
 
@@ -85,21 +85,21 @@ Responsible for membership administration, event planning, tech support, email m
 "Averting Tragedy of the Resource Directory Anti-Commons," The Cambridge Handbook of Commons Research Innovations, ed. Sheila Foster and Chrystie Swiney. (DC: Georgetown University Press, publication pending Fall 2020)
 
 `2017`
-"Community Resource Directories and the Future of Knowledge and Democracy," talk presented at Stanford's Data on Purpose. Viewable at: [https://vimeo.com/206682124#t=14m41s]
+"Community Resource Directories and the Future of Knowledge and Democracy," talk presented at Stanford's Data on Purpose. Viewable at: <a>https://vimeo.com/206682124#t=14m41s</a>
 
 `2015`
-"An Open Data Approach to the Human Service Directory Problem," Bloomberg Data For Good Exchange. Available at: [https://www.academia.edu/16449530/An_Open_Data_Approach_to_the_Human_Service_Directory_Problem]
+"An Open Data Approach to the Human Service Directory Problem," Bloomberg Data For Good Exchange. Available at: <a>https://www.academia.edu/16449530/An_Open_Data_Approach_to_the_Human_Service_Directory_Problem</a>
 
 `2014` 
-"With and Of and By and For," Civic Quarterly v2. Available at: [https://civicquarterly.com/article/with-and-of-and-by-and-for/]
+"With and Of and By and For," <i>Civic Quarterly</i> #2. Available at: <a>https://civicquarterly.com/article/with-and-of-and-by-and-for/</a>
 
-"Draw an API," Sunlight Foundation's OpenGov Voices blog, June 20th, 20134. Available at: [https://sunlightfoundation.com/2014/06/20/opengov-voices-draw-an-api-an-interpretation-of-open-data-by-tcampers/]
+"Draw an API," Sunlight Foundation's OpenGov Voices blog, June 20th, 2013. Available at: <a>https://sunlightfoundation.com/2014/06/20/opengov-voices-draw-an-api-an-interpretation-of-open-data-by-tcampers/</a>
 
 `2013`
-"Towards a Community Data Commons," Beyond Transparency, ed. Lauren Dyson and Brett Goldstein. (San Francisco: Code for America) Available at: [https://beyondtransparency.org/chapters/part-5/towards-a-community-data-commons/]
+"Towards a Community Data Commons," Beyond Transparency, ed. Lauren Dyson and Brett Goldstein. (San Francisco: Code for America) Available at: <a>https://beyondtransparency.org/chapters/part-5/towards-a-community-data-commons/</a>
 
 `2012`
-"The DiscoTech as Public and Political Forum," Detroit Digital Justice Zine #3, p39-41. Available at: [https://issuu.com/mothercyborg/docs/discotechzine]
+"The DiscoTech as Public and Political Forum," with Jessie Posilkin, Detroit Digital Justice Zine #3, p39-41. Available at: <a>https://issuu.com/mothercyborg/docs/discotechzine</a>
 
 
 ## Education 
@@ -109,7 +109,7 @@ __Duke University, Trinity__
 
 - English B.A. GPA 3.75  
 - Dean's List: Fall '99, Spring '00, Spring '02
-- Managing Editor, Recess Magazine
+- Managing Editor, <i>Recess Magazine</i>
 - Columnist, The Duke Chronicle
 
 `2001`
