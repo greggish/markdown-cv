@@ -3,11 +3,11 @@ layout: cv
 title: Greg Bloom | CV
 ---
 # Greg Bloom
-community organizer, cooperative developer, commons facilitator
+_community organizer, cooperative developer, commons facilitator_
 
 <div id="webaddress">
 <a href="bloom@gregbloom.org">bloom@gregbloom.org</a>
-| <a href="http://gregbloom.org">gregbloom.org</a>
+| <a href="http://gregbloom.org">gregbloom.org</a> | <a href="http://twitter.com/greggish">@greggish</a> | 305.962.2859
 </div>
 
 
@@ -18,7 +18,7 @@ community organizer, cooperative developer, commons facilitator
 Developed the Human Service Data Specifications, which are open protocols for exchanging data about the health, human, and social services available to people in need. Sponsored by Code for America in 2014, and endorsed by the Alliance of Information and Referral Systems in 2018, Open Referral's protocols are now industry standards in the US, UK, and Canada. Through Open Referral, civic leaders and institutions find tools, guidance, implementation support, and a community of practice promoting the establishment of community resource directory data as a public good. 
 
 
-## Occupations
+## Work history
 
 `2019`
 __Visiting Scholar__, Ostrom Workshop on the Commons. Indiana University, Bloomington
@@ -31,11 +31,37 @@ __Advisor__, Benetech. Palo Alto, California
 
 Co-designed Benetech's strategy for the Service Net Initiative, which is prototyping a platform for multi-lateral community resource data management. Co-convened the Bay Area Service Net pilot, which promotes cooperation among a network of referral providers in the San Francisco Bay Area.
 
-- 
-- 
-
 `2016`
-__Civic Imagination Fellow__, Civic Hall
+__Civic Imagination Fellow__, Civic Hall. New York City
+
+Designed Civic Hall Labs' ReferNYC initiative. Advised the NYC Mayor's Office of Opportunity in their process of standardizing and publishing their citywide dataset of health, human, and social service contractors. Advised members of the Civic Hall community, among other local initiatives.     
+
+`2013`
+__Research Fellow__, Provisions Library. DC
+
+Conducted research on emerging opportunities for community technology development, including a report on DC's municipal fiber-optic network, a proposal for a cooperative community broadband initiative, and a white paper about interoperability among local 'information-and-referral' systems. 
+
+`2010-2013`
+__Project Lead__, Broadband Bridge. DC
+
+Launched this organizing initiative to bridge the digital divide in DC. Organized 'Discovering Technology Fairs'. Facilitated development of community wifi networks; coordinated policy advocacy around expanding access to broadband in the District.
+
+`2009-2011` __Instigator, steering committee__, Save Our Safety Net Campaign. DC
+
+Launched municipal budget campaign to prevent cuts in safety net funding. SOS mobilized thousands of residents and ultimately won a tax increase on the wealthiest 3% of DC taxpayers.
+
+`2008-2012` __Communications Guy__ Bread for the City. DC
+
+Responsible for all print and electronic communications, including media relations and daily blogging. Increased online giving by approx. 100% each year; increased email subscribers by approx. 400% overall. Conducted comprehensive update of organizational brand. Organized community events and facilitated internal project management.
+
+`2007-2008` __Development Manager__ Equal Justice USA. Hyattsville, MD
+
+Responsible for major donor development, direct mail, email, tele-fundraising, grantwriting, blog outreach, stakeholder reporting, and social media campaign development.
+
+`2004-2006` __Community Coordinator__ MediaBistro. New York City
+
+Responsible for membership administration, event planning, tech support, email marketing, website development, editorial contributor. Research, reporting, and copy-editing of mb’s book, _Get a Freelance Life_. Assistant to the educational department and the Chief Executive Officer. 
+
 
 
 ## Publications
