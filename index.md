@@ -85,21 +85,21 @@ Responsible for membership administration, event planning, tech support, email m
 "Averting Tragedy of the Resource Directory Anti-Commons," The Cambridge Handbook of Commons Research Innovations, ed. Sheila Foster and Chrystie Swiney. (DC: Georgetown University Press, publication pending Fall 2020)
 
 `2017`
-"Community Resource Directories and the Future of Knowledge and Democracy," talk presented at Stanford's Data on Purpose. Viewable at: https://vimeo.com/206682124#t=14m41s
+"Community Resource Directories and the Future of Knowledge and Democracy," talk presented at Stanford's Data on Purpose. Viewable at: [https://vimeo.com/206682124#t=14m41s]
 
 `2015`
-"An Open Data Approach to the Human Service Directory Problem," Bloomberg Data For Good Exchange. Available at: https://www.academia.edu/16449530/An_Open_Data_Approach_to_the_Human_Service_Directory_Problem
+"An Open Data Approach to the Human Service Directory Problem," Bloomberg Data For Good Exchange. Available at: [https://www.academia.edu/16449530/An_Open_Data_Approach_to_the_Human_Service_Directory_Problem]
 
 `2014` 
-"With and Of and By and For," *Civic Quarterly* v2. Available at: <a>https://civicquarterly.com/article/with-and-of-and-by-and-for/</a>
+"With and Of and By and For," *Civic Quarterly* v2. Available at: [https://civicquarterly.com/article/with-and-of-and-by-and-for/]
 
-"Draw an API," Sunlight Foundation's OpenGov Voices blog, June 20th, 20134. Available at: <a>https://sunlightfoundation.com/2014/06/20/opengov-voices-draw-an-api-an-interpretation-of-open-data-by-tcampers/</a>
+"Draw an API," Sunlight Foundation's OpenGov Voices blog, June 20th, 20134. Available at: [https://sunlightfoundation.com/2014/06/20/opengov-voices-draw-an-api-an-interpretation-of-open-data-by-tcampers/]
 
 `2013`
-"Towards a Community Data Commons," Beyond Transparency, ed. Lauren Dyson and Brett Goldstein. (San Francisco: Code for America) Available at: <a>https://beyondtransparency.org/chapters/part-5/towards-a-community-data-commons/</a>
+"Towards a Community Data Commons," Beyond Transparency, ed. Lauren Dyson and Brett Goldstein. (San Francisco: Code for America) Available at: [https://beyondtransparency.org/chapters/part-5/towards-a-community-data-commons/]
 
 `2012`
-"The DiscoTech as Public and Political Forum," Detroit Digital Justice Zine #3, p39-41. Available at: <a>https://issuu.com/mothercyborg/docs/discotechzine</a>
+"The DiscoTech as Public and Political Forum," Detroit Digital Justice Zine #3, p39-41. Available at: [https://issuu.com/mothercyborg/docs/discotechzine]
 
 
 ## Education 
