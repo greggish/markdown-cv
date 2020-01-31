@@ -13,7 +13,7 @@ _community organizer, cooperative developer, commons facilitator_
 
 ## Currently
 
-### Leading *the Open Referral Initiative.* 
+__Founder, Lead Organizer__, Open Referral Initiative. 
 
 Developed the Human Service Data Specifications, which are open protocols for exchanging data about the health, human, and social services available to people in need. Sponsored by Code for America in 2014, and endorsed by the Alliance of Information and Referral Systems in 2018, Open Referral's protocols are now industry standards in the US, UK, and Canada. Through Open Referral, civic leaders and institutions find tools, guidance, implementation support, and a community of practice promoting the establishment of community resource directory data as a public good. 
 
