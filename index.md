@@ -82,7 +82,7 @@ Responsible for membership administration, event planning, tech support, email m
 ## Publications and Presentations
 
 `2020`
-"Averting Tragedy of the Resource Directory Anti-Commons," The Cambridge Handbook of Commons Research Innovations, ed. Sheila Foster and Chrystie Swiney. (DC: Georgetown University Press, publication pending Fall 2020)
+"Averting Tragedy of the Resource Directory Anti-Commons," The Cambridge Handbook of Commons Research Innovations, ed. Sheila Foster and Chrystie Swiney. (Cambridge University Press, publication pending Fall 2020)
 
 <p></p>
 
