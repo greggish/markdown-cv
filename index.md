@@ -67,12 +67,13 @@ Responsible for membership administration, event planning, tech support, email m
 ## Publications
 
 `2020`
-"Averting Tragedy of the Resource Directory Anti-Commons," The Cambridge Handbook of Commons Research Innovations. Georgetown University Press, _publication pending_
+"Averting Tragedy of the Resource Directory Anti-Commons," _The Cambridge Handbook of Commons Research Innovations_. Georgetown University Press, _publication pending_
 
-`2017`
+`2014`
+"With and Of and By and For," Civic Quarterly #2. https://civicquarterly.com/article/with-and-of-and-by-and-for/
 
-etc. etc. etc.
-
+`2013`
+"Towards a Community Data Commons," _Beyond Transparency_. Code for America. https://beyondtransparency.org/part-5/towards-a-community-data-commons/
 
 
 ## Education
