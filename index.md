@@ -25,6 +25,10 @@ __Visiting Scholar__, Ostrom Workshop on the Commons. Indiana University, Bloomi
 
 In the Ostrom Workshop's Program on Data Governance, conducting research and analysis of the field of 'information-and-referral' as a tragic anti-commons. Co-facilitating Ostrom Workshop's data governance workgroup. Advised New America's Future of Property Rights program in development of their report, ["A Commons Approach to Smart City Governance"](https://www.newamerica.org/future-property-rights/reports/can-elinor-ostrom-make-cities-smarter/). Authored a chapter in _The Cambridge Handbook of Commons Research Innovations_, pending publication by Georgetown University Press in Summer 2020.
 
+`2017`
+__Instigator, lead organizer__ Irma Response Network. Miami, Florida
+
+Formed and facilitated a network of 'digital responders' to prepare for Hurricane Irma. The network grew to include almost a thousand volunteers, and deployed a range of useful tools including the Irma Shelter application, as featured in [The New Tropic](https://thenewtropic.com/how-700-coders-and-volunteers-instantly-banded-together-to-aid-irma-relief/).
 
 `2017`
 __Advisor__, Benetech. Palo Alto, California
