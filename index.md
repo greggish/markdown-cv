@@ -28,7 +28,7 @@ In the Ostrom Workshop's Program on Data Governance, conducting research and ana
 `2017`
 __Instigator, lead organizer__, Irma Response Network. Miami, Florida
 
-Formed and facilitated a network of 'digital responders' to prepare for Hurricane Irma. The network grew to include almost a thousand volunteers, and deployed a range of useful tools including the Irma Shelter application, as featured in [The New Tropic](https://thenewtropic.com/how-700-coders-and-volunteers-instantly-banded-together-to-aid-irma-relief/).
+Formed and facilitated a network of 'digital responders' to prepare for Hurricane Irma. The network grew to include almost a thousand volunteers, and deployed a range of useful tools including the Irma Shelter application, as featured in [The New Tropic](https://thenewtropic.com/how-700-coders-and-volunteers-instantly-banded-together-to-aid-irma-relief/). Afterward, facilitated the drafting of [the Principles of Equitable and Effective Crisis Response](https://www.appropedia.org/Principles_for_an_Equitable_and_Effective_Crisis_Response) through dialogue with dozens of community organizers across multiple events and international settings.
 
 `2017`
 __Advisor__, Benetech. Palo Alto, California
