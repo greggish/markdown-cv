@@ -20,6 +20,11 @@ Facilitated development of [the Human Service Data Specifications](http://docs.o
 
 ## Work history
 
+`2020`
+__Product Manager__, [Florida.EvictionProtection.org]. Code for Miami. Miami, Florida. 
+
+In partnership with [the Community Justice Project](http://communityjusticeproject.com/), formed and managed the team that developed the Florida Eviction Protection website, which helped tens of thousands of Florida tenants learn about their rights during the COVID-19 pandemic and accompanying economic crisis. 
+
 `2019`
 __Visiting Scholar__, Ostrom Workshop on the Commons. Indiana University, Bloomington
 
