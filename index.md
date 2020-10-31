@@ -21,6 +21,11 @@ Facilitated development of [the Human Service Data Specifications](http://docs.o
 ## Work history
 
 `2020`
+
+__Technical Advisory Committee member__, [Gravity Project](https://www.hl7.org/gravity/). 
+
+Advise on the Gravity Project's strategic design and governance process;  led the participatory process of drafting the project's foundational Statement of Principles. The Gravity Project is aligning and extending standardized vocabularies for clinical care to support cross-domain care coordination, as well as interoperability protocols to promote use of HL7's FHIR (Fast Healthcare Interoperability Resources) in systems that facilitate delivery of human services and social programs.
+
 __Product Manager__, [Florida.EvictionProtection.org](http://florida.evictionprotection.org). Code for Miami. Miami, Florida. 
 
 In partnership with [the Community Justice Project](http://communityjusticeproject.com/), formed and managed the team that developed the Florida Eviction Protection website, which helped tens of thousands of Florida tenants learn about their rights during the COVID-19 pandemic and accompanying economic crisis. 
