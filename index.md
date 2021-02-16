@@ -6,7 +6,7 @@ title: Greg Bloom | CV
 _community organizer, cooperative developer, commons facilitator_
 
 <div id="webaddress">
-<a href="bloom@gregbloom.org">bloom@gregbloom.org</a>
+<a href="mailto:bloom@gregbloom.org">bloom@gregbloom.org</a>
 | <a href="http://gregbloom.org">gregbloom.org</a> | <a href="http://twitter.com/greggish">@greggish</a> | 305.962.2859
 </div>
 
