@@ -24,7 +24,7 @@ Facilitated development of [the Human Service Data Specifications](http://docs.o
 
 __Strategic Advisor, Community Resources and Engagement__, [Gravity Project](https://www.hl7.org/gravity/). 
 
-Advise on the Gravity Project's strategic design and governance process;  led the participatory process of drafting the project's foundational Statement of Principles. Facilitate stakeholder engagement among social service sectors in standards development processes. The Gravity Project is aligning and extending standardized vocabularies for clinical care to support cross-domain care coordination, as well as interoperability protocols to promote use of HL7's FHIR (Fast Healthcare Interoperability Resources) in systems that facilitate delivery of human services and social programs.
+Advise on the Gravity Project's strategic design and governance process; co-facilitated the participatory process of drafting the project's foundational Statement of Principles. Facilitating stakeholder engagement among social service sectors in standards development processes. The Gravity Project is aligning and extending standardized vocabularies for clinical care to support cross-domain care coordination, as well as implementation guidance for use of HL7's FHIR (Fast Healthcare Interoperability Resources) for development of interoperability among systems that facilitate delivery of health, human, and social services.
 
 __Product Manager__, [Florida.EvictionProtection.org](http://florida.evictionprotection.org). Code for Miami. Miami, Florida. 
 
