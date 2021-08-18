@@ -15,16 +15,16 @@ _community organizer, cooperative developer, commons facilitator_
 
 `Currently`
 
-### Leading the Open Referral Initiative. 
+__Founder and Lead__, [the Open Referral Initiative](https://openreferral.org)
 
 Facilitated development of [the Human Service Data Specifications](http://docs.openreferral.org), which are open protocols for exchanging data about the health, human, and social services available to people in need. Sponsored by Code for America in 2014, and endorsed by the Alliance of Information and Referral Systems in 2018, Open Referral's protocols are now industry standards in the US, UK, and Canada. Through Open Referral, civic leaders and institutions find tools, guidance, implementation support, and a community of practice promoting the establishment of community resource directory data as a public good. 
 
 
 `2020`
 
-__Technical Advisory Committee member__, [Gravity Project](https://www.hl7.org/gravity/). 
+__Strategic Advisor, Community Resources and Engagement__, [Gravity Project](https://www.hl7.org/gravity/). 
 
-Advise on the Gravity Project's strategic design and governance process;  led the participatory process of drafting the project's foundational Statement of Principles. The Gravity Project is aligning and extending standardized vocabularies for clinical care to support cross-domain care coordination, as well as interoperability protocols to promote use of HL7's FHIR (Fast Healthcare Interoperability Resources) in systems that facilitate delivery of human services and social programs.
+Advise on the Gravity Project's strategic design and governance process;  led the participatory process of drafting the project's foundational Statement of Principles. Facilitate stakeholder engagement among social service sectors in standards development processes. The Gravity Project is aligning and extending standardized vocabularies for clinical care to support cross-domain care coordination, as well as interoperability protocols to promote use of HL7's FHIR (Fast Healthcare Interoperability Resources) in systems that facilitate delivery of human services and social programs.
 
 __Product Manager__, [Florida.EvictionProtection.org](http://florida.evictionprotection.org). Code for Miami. Miami, Florida. 
 
@@ -103,6 +103,6 @@ __King's College, London__
 
 <!-- ### Footer
 
-Last updated: Jan 2020 -->
+Last updated: Aug 2021 -->
 
 
