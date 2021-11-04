@@ -80,8 +80,8 @@ Responsible for membership administration, event planning, tech support, email m
 
 ## Publications
 
-`2020`
-"Averting Tragedy of the Resource Directory Anti-Commons," _The Cambridge Handbook of Commons Research Innovations_. Georgetown University Press, _publication pending_  
+`2021`
+"Averting Tragedy of the Resource Directory Anti-Commons," in Foster, S., & Swiney, C. (Eds), _The Cambridge Handbook of Commons Research Innovations_.  Georgetown University Press. https://bit.ly/CUPChapter  
 
 `2014`
 "With and Of and By and For," Civic Quarterly #2. [https://civicquarterly.com/article/with-and-of-and-by-and-for/](https://civicquarterly.com/article/with-and-of-and-by-and-for/)  
