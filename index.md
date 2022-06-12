@@ -19,6 +19,11 @@ __Founder and Lead__, [the Open Referral Initiative](https://openreferral.org)
 
 Facilitated development of [the Human Service Data Specifications](http://docs.openreferral.org), which are open protocols for exchanging data about the health, human, and social services available to people in need. Sponsored by Code for America in 2014, and endorsed by the Alliance of Information and Referral Systems in 2018, Open Referral's protocols are now industry standards in the US, UK, and Canada. Through Open Referral, civic leaders and institutions find tools, guidance, implementation support, and a community of practice promoting the establishment of community resource directory data as a public good. 
 
+`2022`
+
+__Workgroup member, Alternative Hotlines__, [Transform911](https://www.transform911.org/our-team/workgroup-members/). 
+
+Supported workgroup research, deliberation, and recommendation upon the relationship between 911 and other hotlines such as 211, 311, 988, etc. Transform911 convened a wide array of experts and community stakeholders, resulting in evidence-informed and actionable proposals and recommendations for local, state, and federal lawmakers and create blueprints to initiate systemic change of the nation’s emergency response system.
 
 `2020`
 
