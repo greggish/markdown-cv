@@ -19,6 +19,12 @@ __Founder and Lead__, [the Open Referral Initiative](https://openreferral.org)
 
 Facilitated development of [the Human Service Data Specifications](http://docs.openreferral.org), which are open protocols for exchanging data about the health, human, and social services available to people in need. Sponsored by Code for America in 2014, and endorsed by the Alliance of Information and Referral Systems in 2018, Open Referral's protocols are now industry standards in the US, UK, and Canada. Through Open Referral, civic leaders and institutions find tools, guidance, implementation support, and a community of practice promoting the establishment of community resource directory data as a public good. 
 
+`2023`
+
+__Co-facilitator of ONC's "Social Determinants of Health Information Exchange" Technical Expert Panel and Learning Forum__, EMI Advisors
+
+Co-facilitated a Technical Expert Panel, and subsequent [Learning Forums](https://healthit.gov/news/events/oncs-social-determinants-health-information-exchange-learning-forum), on the topic of information exchange to address social needs and improve health outcomes. Sponsored by the Office of the National Coordinator for Health Information Technology (ONC), the Technical Expert Panel included stakeholders from across the health, human, and social service sectors, and synthesized findings into [a toolkit for information exchange initiatives](https://www.healthit.gov/buzz-blog/public-health/new-releases-sdoh-toolkit-and-learning-forum-sessions-for-the-health-it-community).
+
 `2022`
 
 __Workgroup member, Alternative Hotlines__, [Transform911](https://www.transform911.org/our-team/workgroup-members/). 
