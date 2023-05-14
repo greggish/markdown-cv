@@ -75,15 +75,15 @@ Launched this organizing initiative to bridge the digital divide in DC. Organize
 
 Launched municipal budget campaign to prevent cuts in safety net funding. SOS mobilized thousands of residents and ultimately won a tax increase on the wealthiest 3% of DC taxpayers.  
 
-`2008-2012` __Communications Guy__ Bread for the City. DC
+`2008-2012` __Communications Guy__, Bread for the City. DC
 
 Responsible for all print and electronic communications, including media relations and daily blogging. Increased online giving by approx. 100% each year; increased email subscribers by approx. 400% overall. Conducted comprehensive update of organizational brand. Organized community events and facilitated internal project management.  
 
-`2007-2008` __Development Manager__ Equal Justice USA. Hyattsville, MD
+`2007-2008` __Development Manager__, Equal Justice USA. Hyattsville, MD
 
 Responsible for major donor development, direct mail, email, tele-fundraising, grantwriting, blog outreach, stakeholder reporting, and social media campaign development.  
 
-`2004-2006` __Community Coordinator__ MediaBistro. New York City
+`2004-2006` __Community Coordinator__, MediaBistro. New York City
 
 Responsible for membership administration, event planning, tech support, email marketing, website development, editorial contributor. Research, reporting, and copy-editing of mb’s book, _Get a Freelance Life_. Assistant to the educational department and the Chief Executive Officer.  
 
