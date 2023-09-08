@@ -21,6 +21,11 @@ Facilitated development of [the Human Service Data Specifications](http://docs.o
 
 `2023`
 
+__Co-facilitator, Community Information Exchange Task Force__, Michigan Department of Health and Human Services
+
+Co-designed and facilitated the Michigan Community Information Exchange (CIE) Task Force, in partnership with the Michigan Public Health Institute. Over the course of 10 months, the Task Force reviewed available research and analysis about Community Information Exchange initiatives in Michigan and around the country, and analyzed the challenges and opportunities for development of statewide infrastructure in support of CIE activities. The Task Force reached concordance around 33 recommendations that were submitted to the state government and [published in a Final Report](https://www.michigan.gov/mdhhs/-/media/Project/Websites/mdhhs/Inside-MDHHS/Policy-and-Planning/Social-Determinants-of-Health-Strategy/CIE/CIE-TF-Final-Report-FINAL-08092023.pdf).  
+
+
 __Co-facilitator of ONC's "Social Determinants of Health Information Exchange" Technical Expert Panel and Learning Forum__, EMI Advisors
 
 Co-facilitated a Technical Expert Panel, and subsequent [Learning Forums](https://healthit.gov/news/events/oncs-social-determinants-health-information-exchange-learning-forum), on the topic of information exchange to address social needs and improve health outcomes. Sponsored by the Office of the National Coordinator for Health Information Technology (ONC), the Technical Expert Panel included stakeholders from across the health, human, and social service sectors, and synthesized findings into [a toolkit for information exchange initiatives](https://www.healthit.gov/buzz-blog/public-health/new-releases-sdoh-toolkit-and-learning-forum-sessions-for-the-health-it-community).
@@ -92,7 +97,10 @@ Responsible for membership administration, event planning, tech support, email m
 ## Publications
 
 `2021`
-"Averting Tragedy of the Resource Directory Anti-Commons," in Foster, S., & Swiney, C. (Eds), _The Cambridge Handbook of Commons Research Innovations_.  Georgetown University Press. https://bit.ly/CUPChapter  
+"Averting Tragedy of the Resource Directory Anti-Commons," in Foster, S., & Swiney, C. (Eds), _The Cambridge Handbook of Commons Research Innovations_.  Georgetown University Press. [https://bit.ly/CUPChapter](https://bit.ly/CUPChapter)    
+
+["Tackling Data Dilemmas in Social Care Coordination,"](https://docs.google.com/document/d/1_fRYcPHYzwpv3EZEsFi91DhAO34KO3pfAXjnB5BB0r4/edit) a whitepaper co-authored with Paul Sorenson of the University of Missouri-St Louis, commissioned by Data Across Sectors for Health (DASH), a national program of the Robert Wood Johnson Foundation.
+
 
 `2014`
 "With and Of and By and For," Civic Quarterly #2. [https://civicquarterly.com/article/with-and-of-and-by-and-for/](https://civicquarterly.com/article/with-and-of-and-by-and-for/)  
