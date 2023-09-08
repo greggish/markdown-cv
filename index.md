@@ -49,7 +49,7 @@ In partnership with [the Community Justice Project](http://communityjusticeproje
 `2019`
 __Visiting Scholar__, Ostrom Workshop on the Commons. Indiana University, Bloomington
 
-In the Ostrom Workshop's Program on Data Governance, conducting research and analysis of the field of 'information-and-referral' as a tragic anti-commons. Co-facilitating Ostrom Workshop's data governance workgroup. Advised New America's Future of Property Rights program in development of their report, ["A Commons Approach to Smart City Governance"](https://www.newamerica.org/future-property-rights/reports/can-elinor-ostrom-make-cities-smarter/). Authored a chapter in _The Cambridge Handbook of Commons Research Innovations_, pending publication by Georgetown University Press in Summer 2020.  
+In the Ostrom Workshop's Program on Data Governance, conducting research and analysis of the field of 'information-and-referral' as a tragic anti-commons. Co-facilitating Ostrom Workshop's data governance workgroup. Advised New America's Future of Property Rights program in development of their report, ["A Commons Approach to Smart City Governance"](https://www.newamerica.org/future-property-rights/reports/can-elinor-ostrom-make-cities-smarter/). Authored "Averting Tragedy of the Resource Directory Anti-Commons," a chapter in _The Cambridge Handbook of Commons Research Innovations_: [https://bit.ly/CUPChapter](https://bit.ly/CUPChapter) 
 
 `2017`
 __Instigator, lead organizer__, Irma Response Network. Miami, Florida
