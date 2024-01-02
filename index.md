@@ -15,7 +15,7 @@ _community organizer, cooperative developer, commons facilitator_
 
 `Currently`
 
-__Senior Director of Strategy and Partnerships__, [Inform USA](https://informusa.org/_
+__Senior Director of Strategy and Partnerships__, [Inform USA](https://informusa.org/)
 
 Oversee development of strategic partnerships, government relations, and support for state affiliates of Inform USA, the industry association representing information-and-referral (I&R) providers across government and nonprofit human service sectors. Formerly known as the Alliance of Information and Referral Systems (AIRS), Inform USA is the professional membership association for Information and Referral (I&R) providers that connect people and communities to information about resources. The members of Inform USA are the driving force behind the delivery of quality I&R services and the sole source for standards, program accreditation and practitioner certification for the I&R sector.
 
