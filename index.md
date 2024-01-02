@@ -15,9 +15,14 @@ _community organizer, cooperative developer, commons facilitator_
 
 `Currently`
 
+__Senior Director of Strategy and Partnerships__, [Inform USA](https://informusa.org/_
+
+Oversee development of strategic partnerships, government relations, and support for state affiliates of Inform USA, the industry association representing information-and-referral (I&R) providers across government and nonprofit human service sectors. Formerly known as the Alliance of Information and Referral Systems (AIRS), Inform USA is the professional membership association for Information and Referral (I&R) providers that connect people and communities to information about resources. The members of Inform USA are the driving force behind the delivery of quality I&R services and the sole source for standards, program accreditation and practitioner certification for the I&R sector.
+
+
 __Founder and Lead__, [the Open Referral Initiative](https://openreferral.org)
 
-Facilitated development of [the Human Service Data Specifications](http://docs.openreferral.org), which are open protocols for exchanging data about the health, human, and social services available to people in need. Sponsored by Code for America in 2014, and endorsed by the Alliance of Information and Referral Systems in 2018, Open Referral's protocols are now industry standards in the US, UK, and Canada. Through Open Referral, civic leaders and institutions find tools, guidance, implementation support, and a community of practice promoting the establishment of community resource directory data as a public good. 
+Launched and lead the global Open Referral community of practice. Facilitated development of [the Human Service Data Specifications](http://docs.openreferral.org), which are open protocols for exchanging data about the health, human, and social services available to people in need. Sponsored by Code for America in 2014, and endorsed by the Alliance of Information and Referral Systems in 2018, Open Referral's protocols are now industry standards in the US, UK, and Canada. Through Open Referral, civic leaders and institutions find tools, guidance, implementation support, and a community of practice promoting the establishment of community resource directory data as a public good. 
 
 `2023`
 
@@ -28,7 +33,7 @@ Co-designed and facilitated the Michigan Community Information Exchange (CIE) Ta
 
 __Co-facilitator of ONC's "Social Determinants of Health Information Exchange" Technical Expert Panel and Learning Forum__, EMI Advisors
 
-Co-facilitated a Technical Expert Panel, and subsequent [Learning Forums](https://healthit.gov/news/events/oncs-social-determinants-health-information-exchange-learning-forum), on the topic of information exchange to address social needs and improve health outcomes. Sponsored by the Office of the National Coordinator for Health Information Technology (ONC), the Technical Expert Panel included stakeholders from across the health, human, and social service sectors, and synthesized findings into [a toolkit for information exchange initiatives](https://www.healthit.gov/buzz-blog/public-health/new-releases-sdoh-toolkit-and-learning-forum-sessions-for-the-health-it-community).
+Co-facilitated a Technical Expert Panel, and subsequent [Learning Forums](https://healthit.gov/news/events/oncs-social-determinants-health-information-exchange-learning-forum), on the topic of information exchange to address social needs and improve health outcomes. Sponsored by the U.S. Department of Health and Human Services' Office of the National Coordinator for Health Information Technology (ONC), the Technical Expert Panel included stakeholders from across the health, human, and social service sectors, and synthesized findings into [a toolkit for information exchange initiatives](https://www.healthit.gov/buzz-blog/public-health/new-releases-sdoh-toolkit-and-learning-forum-sessions-for-the-health-it-community).
 
 `2022`
 
@@ -74,7 +79,7 @@ Conducted research on emerging opportunities for community technology developmen
 `2010-2013`
 __Project Lead__, Broadband Bridge. DC
 
-Launched this organizing initiative to bridge the digital divide in DC. Organized 'Discovering Technology Fairs'. Facilitated development of community wifi networks; coordinated policy advocacy around expanding access to broadband in the District.  
+Launched this organizing initiative to bridge the digital divide in DC. Organized 'Discovering Technology Fairs' (DisCotechs). Facilitated development of community wifi networks; coordinated policy advocacy around expanding access to broadband in the District.  
 
 `2009-2011` __Instigator, steering committee__, Save Our Safety Net Campaign. DC
 
