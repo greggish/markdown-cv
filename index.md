@@ -24,6 +24,12 @@ __Founder and Lead__, [the Open Referral Initiative](https://openreferral.org)
 
 Launched and lead the global Open Referral community of practice. Facilitated development of [the Human Service Data Specifications](http://docs.openreferral.org), which are open protocols for exchanging data about the health, human, and social services available to people in need. Sponsored by Code for America in 2014, and endorsed by the Alliance of Information and Referral Systems in 2018, Open Referral's protocols are now industry standards in the US, UK, and Canada. Through Open Referral, civic leaders and institutions find tools, guidance, implementation support, and a community of practice promoting the establishment of community resource directory data as a public good. 
 
+`2024`
+
+__Facilitator, Miami-Dade Property Insurance Strategy Forum__, Miami-Dade Office of Innovation and Economic Development
+
+In collaboration with Miami-Dade Mayor Daniella Levine Cava, designed and facilitated this two-day convening of stakeholders from across the insurance industry, along with state and local government officials, academics and researchers, real-estate developers and community housing advocates, and green financiers. The Strategy Forum addressed the emerging crisis of property insurance unaffordability in South Florida and beyond, through 40+ small group, peer-facilitated discussions that focused on moving from analysis to action. [The resulting report](https://drive.google.com/file/d/1NUEQaIKYNVn95BwmOEtzu0vMdeIfBDA5/view) offers dozens of recommendations for state and local government, universities, insurance industry institutions, and more. 
+
 `2023`
 
 __Co-facilitator, Community Information Exchange Task Force__, Michigan Department of Health and Human Services
