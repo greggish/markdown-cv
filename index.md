@@ -28,7 +28,7 @@ Launched and lead the global Open Referral community of practice. Facilitated de
 
 __Facilitator, Miami-Dade Property Insurance Strategy Forum__, Miami-Dade Office of Innovation and Economic Development
 
-In collaboration with Miami-Dade Mayor Daniella Levine Cava, designed and facilitated this two-day convening of stakeholders from across the insurance industry, along with state and local government officials, academics and researchers, real-estate developers and community housing advocates, and green financiers. The Strategy Forum addressed the emerging crisis of property insurance unaffordability in South Florida and beyond, through 40+ small group, peer-facilitated discussions that focused on moving from analysis to action. [The resulting report](https://drive.google.com/file/d/1NUEQaIKYNVn95BwmOEtzu0vMdeIfBDA5/view) offers dozens of recommendations for state and local government, universities, insurance industry institutions, and more. 
+In collaboration with Miami-Dade Mayor Daniella Levine Cava, designed and facilitated this two-day convening of stakeholders from across the insurance industry, along with state and local government officials, academics and researchers, green financiers, real-estate developers and affordable housing advocates. The Strategy Forum addressed the emerging crisis of property insurance unaffordability in South Florida and beyond, through 40+ small group, peer-facilitated discussions that focused on moving from analysis to action. [The resulting report](https://drive.google.com/file/d/1NUEQaIKYNVn95BwmOEtzu0vMdeIfBDA5/view) offers dozens of recommendations for state and local government, universities, insurance industry institutions, and more. 
 
 `2023`
 
