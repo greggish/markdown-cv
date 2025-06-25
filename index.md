@@ -17,12 +17,18 @@ _community organizer, cooperative developer, commons facilitator_
 
 __Senior Director of Strategy and Partnerships__, [Inform USA](https://informusa.org/)
 
-Oversee development of strategic partnerships, government relations, and support for state affiliates of Inform USA, the industry association representing information-and-referral (I&R) providers across government and nonprofit human service sectors. Formerly known as the Alliance of Information and Referral Systems (AIRS), Inform USA is the professional membership association for Information and Referral (I&R) providers that connect people and communities to information about resources. The members of Inform USA are the driving force behind the delivery of quality I&R services and the sole source for standards, program accreditation and practitioner certification for the I&R sector.
+Oversee development of strategic partnerships, government relations, and support for state affiliates of Inform USA, the industry association representing information-and-referral (I&R) providers across government and nonprofit human service sectors. Led the association's Taxonomy Task Force, developing recommendations for new policies that can promote adoption of interoperable classification methodologies. Led the association's AI Task Force, developing frameworks for governance and responsible design and evaluation of algorithmic technologies in human service coordination.
 
 
 __Founder and Lead__, [the Open Referral Initiative](https://openreferral.org)
 
 Launched and lead the global Open Referral community of practice. Facilitated development of [the Human Service Data Specifications](http://docs.openreferral.org), which are open protocols for exchanging data about the health, human, and social services available to people in need. Sponsored by Code for America in 2014, and endorsed by the Alliance of Information and Referral Systems in 2018, Open Referral's protocols are now industry standards in the US, UK, and Canada. Through Open Referral, civic leaders and institutions find tools, guidance, implementation support, and a community of practice promoting the establishment of community resource directory data as a public good. 
+
+`2025`
+
+__Facilitator, Biennial Conference__, International Association of the Study of the Commons
+
+Supported a shift to participatory, inclusive programming among this association of governance scholars. Designed and facilitated the "Unconference" component of the event, overseeing a self-organized, peer-facilitated series of more than forty dialogues about various aspects of institutional design theory and practice. 
 
 `2024`
 
