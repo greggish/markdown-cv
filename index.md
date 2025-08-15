@@ -15,9 +15,13 @@ _community organizer, cooperative developer, commons facilitator_
 
 `Currently`
 
-__Senior Director of Strategy and Partnerships__, [Inform USA](https://informusa.org/)
+__Co-founder, Co-director__, [Climate Resilient Insurance Strategy Project](https://www.climateresilientinsurance.org/) 
 
-Oversee development of strategic partnerships, government relations, and support for state affiliates of Inform USA, the industry association representing information-and-referral (I&R) providers across government and nonprofit human service sectors. Led the association's Taxonomy Task Force, developing recommendations for new policies that can promote adoption of interoperable classification methodologies. Led the association's AI Task Force, developing frameworks for governance and responsible design and evaluation of algorithmic technologies in human service coordination.
+The Climate-Resilient Insurance Strategy Project (CRISP) brings people together to find ways forward through the property insurance crisis. We design and facilitate highly participatory events at which stakeholders from different sectors can share knowledge, build relationships, and collaboratively design and pursue strategies for a more resilient future.
+
+__Strategic Advisor__, [Inform USA](https://informusa.org/)
+
+As Senior Director of Strategy and Partnerships (late 2023 to early 2025) I oversaw development of strategic partnerships, government relations, and support for state affiliates of Inform USA, the industry association representing information-and-referral (I&R) providers across government and nonprofit human service sectors. Led the association's Taxonomy Task Force, developing recommendations for new policies that can promote adoption of interoperable classification methodologies. Now as Strategic Avisor, I am facilitating the association's AI Task Force, developing frameworks for governance and responsible design and evaluation of algorithmic technologies in human service coordination.
 
 
 __Founder and Lead__, [the Open Referral Initiative](https://openreferral.org)
