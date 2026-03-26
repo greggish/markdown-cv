@@ -117,7 +117,7 @@ Responsible for membership administration, event planning, tech support, email m
 
 ## Publications
 
-`2026` "The Value of Having Values: Artifacts of Normative Knowledge as Instruments of Collective Self-Governance," in Raymond A, Shackelford SJ, Steinberg J, Mattioli M, eds. _The Environmental Knowledge Commons: Cases and Lessons for Knowledge Sharing._ (p9-24) Cambridge University Press 
+`2026` ["The Value of Having Values: Artifacts of Normative Knowledge as Instruments of Collective Self-Governance,"](https://www.cambridge.org/core/books/environmental-knowledge-commons/value-of-having-values/38B120FAF89AD0E6C7AA72D1EE85127B) in Raymond A, Shackelford SJ, Steinberg J, Mattioli M, eds. _The Environmental Knowledge Commons: Cases and Lessons for Knowledge Sharing._ (p9-24) Cambridge University Press 
 
 `2021`
 "Averting Tragedy of the Resource Directory Anti-Commons," in Foster, S., & Swiney, C. (Eds), _The Cambridge Handbook of Commons Research Innovations_.  Georgetown University Press. [https://bit.ly/CUPChapter](https://bit.ly/CUPChapter)    
